@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WaddellViewTool::Renderer.copyright 'Emma Waddell', 'All Rights Reserved'
+```
 
 ## Development
 
